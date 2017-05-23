@@ -1,0 +1,5 @@
+Framework\TestBase.class
+Framework\AppControl.class
+Pages\HomePage.class
+Framework\App.class
+Tests\HomePageTest.class
