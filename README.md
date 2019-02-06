@@ -1,4 +1,6 @@
 # java-appium
 A Java Appium and TestNG Framework
 
-http://timothycope.com/java-appium-automation/
+[View the Wiki](https://github.com/kirbycope/java-appium/wiki)
+
+![Screenshot](https://raw.githubusercontent.com/kirbycope/java-appium/master/java-appium.png)
